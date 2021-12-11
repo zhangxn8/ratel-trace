@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.ratel.config.ElasticSearchConfig,\
+  com.ratel.service.impl.ElasticsearchServiceImpl
+
+  
